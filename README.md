@@ -27,7 +27,7 @@ https://fuel-price-visualization-nine.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/vikranttanwar04/Fuel-price-visualization
+  git clone https://github.com/vikranttanwar04/Fuel-price-visualization.git
 ```
 
 Go to the project directory
