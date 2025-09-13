@@ -1,4 +1,3 @@
-
 # Retail Selling Price (RSP) of Petrol and Diesel in Metro Cities
 
 A single page application that allows the user to see the Retail Selling Price (RSP) of Petrol and Diesel in Metro Cities using various filters (city, fuel type, year).
