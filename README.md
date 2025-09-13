@@ -4,7 +4,7 @@ A single page application that allows the user to see the Retail Selling Price (
 
 
 ## 🚀 Live Demo
-https://your-vercel-or-netlify-link.com
+[https://your-vercel-or-netlify-link.com](https://fuel-price-visualization-nine.vercel.app/)
 ## Screenshots
 
 ![App Screenshot](./src/assets/Screenshot%202025-09-12%20225539.png)
@@ -27,7 +27,7 @@ https://your-vercel-or-netlify-link.com
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [https://link-to-project](https://github.com/vikranttanwar04/Fuel-price-visualization/)
 ```
 
 Go to the project directory
